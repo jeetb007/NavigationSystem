@@ -1,0 +1,110 @@
+{
+  "Waypoints" : [
+   {
+     "name" :"amsterdam", 
+     "latitude" :52.3667, 
+     "longitude" :4.9
+   },
+   {
+     "name" :"berlin", 
+     "latitude" :52.5167, 
+     "longitude" :13.3833
+   },
+   {
+     "name" :"darmstadt", 
+     "latitude" :49.8667, 
+     "longitude" :8.65
+   },
+   {
+     "name" :"tokio", 
+     "latitude" :35.6833, 
+     "longitude" :139.683
+   }
+  ], 
+  "pois" : [
+   {
+     "name" :"Darmstadt City Hospital", 
+     "latitude" :41, 
+     "longitude" :22, 
+     "type" :"5", 
+     "description" :"Public undertaking"
+   },
+   {
+     "name" :"Darmstadt hauptbahnhof", 
+     "latitude" :32.01, 
+     "longitude" :40, 
+     "type" :"9", 
+     "description" :"hauptbahnhof"
+   },
+   {
+     "name" :"Delhi Airport", 
+     "latitude" :49.8, 
+     "longitude" :8.65325, 
+     "type" :"0", 
+     "description" :"International  Airport"
+   },
+   {
+     "name" :"Deutsche Bank", 
+     "latitude" :80, 
+     "longitude" :20, 
+     "type" :"2", 
+     "description" :"Regional office"
+   },
+   {
+     "name" :"Deutsche Bank ATM", 
+     "latitude" :10.7, 
+     "longitude" :32, 
+     "type" :"1", 
+     "description" :"No service charge for other Bank cards"
+   },
+   {
+     "name" :"Frankenstein Castle", 
+     "latitude" :10, 
+     "longitude" :20, 
+     "type" :"10", 
+     "description" :"only for students"
+   },
+   {
+     "name" :"Hochschule Parking", 
+     "latitude" :10, 
+     "longitude" :20, 
+     "type" :"7", 
+     "description" :"only for students"
+   },
+   {
+     "name" :"Oberwald Hause lake", 
+     "latitude" :31.9021, 
+     "longitude" :80.7868, 
+     "type" :"10", 
+     "description" :"Swim on your risk"
+   },
+   {
+     "name" :"SHELL", 
+     "latitude" :12.9, 
+     "longitude" :40.71, 
+     "type" :"4", 
+     "description" :"Company run Gas station"
+   },
+   {
+     "name" :"St. George", 
+     "latitude" :32.9021, 
+     "longitude" :40.7868, 
+     "type" :"3", 
+     "description" :"Roman catholic church"
+   },
+   {
+     "name" :"TUD Parking", 
+     "latitude" :10, 
+     "longitude" :20.234, 
+     "type" :"7", 
+     "description" :"only for student/lecturers"
+   },
+   {
+     "name" :"darmstadt", 
+     "latitude" :11.3, 
+     "longitude" :32, 
+     "type" :"10", 
+     "description" :"4 Euro entry, free for kids under 12 "
+   }
+  ] 
+ }

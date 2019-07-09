@@ -1,0 +1,6 @@
+Lal Quila;28.6561;77.2408;3;Oldest fort in Delhi
+Leopold Cafe;18.9228;72.8318;0;Best bar and cafe in Mumbai
+Marine Drive;18.9282;72.8207;1;Seaside road with great view
+Qutub Minar;28.5243;77.1852;4;World's tallest sandstone tower
+Radisson Blu;28.6561;77.2408;0;Best hotel in Agra
+Taj Mahal;27.1748;78.0417;4;Most beautiful monument
